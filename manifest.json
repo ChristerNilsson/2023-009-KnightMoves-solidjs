@@ -1,6 +1,6 @@
 {
   "src/entry-client.jsx": {
-    "file": "assets/entry-client.44ec9ba3.js",
+    "file": "assets/entry-client.146971c3.js",
     "src": "src/entry-client.jsx",
     "isEntry": true,
     "dynamicImports": [
@@ -12,7 +12,7 @@
     ]
   },
   "src/routes/index.jsx": {
-    "file": "assets/index.67e6b52f.js",
+    "file": "assets/index.c93d3a81.js",
     "src": "src/routes/index.jsx",
     "isDynamicEntry": true,
     "imports": [
@@ -23,7 +23,7 @@
     ]
   },
   "src/routes/[...404].jsx": {
-    "file": "assets/_...404_.1e79c3c9.js",
+    "file": "assets/_...404_.0cf298f4.js",
     "src": "src/routes/[...404].jsx",
     "isDynamicEntry": true,
     "imports": [
